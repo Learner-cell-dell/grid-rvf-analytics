@@ -18,7 +18,7 @@ ROOT_DIR = Path(__file__).resolve().parent
 sys.path.append(str(ROOT_DIR / "src"))
 from metrics import evaluate_forecast, make_fourier_terms
 
-DATA_DIR = ROOT_DIR / "data" / "processed"
+DATA_DIR = ROOT_DIR / "Data" / "processed"
 RES_DIR = ROOT_DIR / "results"
 
 st.set_page_config(
