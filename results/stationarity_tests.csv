@@ -1,0 +1,7 @@
+Grid,Series,ADF_Stat,ADF_pvalue,KPSS_Stat,KPSS_pvalue,Assessment
+California (CAL),Raw Demand (MW),-12.0028,0.0,1.5161,0.01,Difference-Stationary / Trend
+California (CAL),First Diff ΔDemand,-33.4579,0.0,0.0229,0.1,Stationary
+California (CAL),Seasonal Diff Δ24 Demand,-29.63,0.0,0.0065,0.1,Stationary
+Pakistan (ISMO),Raw Demand (MW),-2.7602,0.0642,3.9257,0.01,Non-Stationary
+Pakistan (ISMO),First Diff ΔDemand,-15.9921,0.0,0.1443,0.1,Stationary
+Pakistan (ISMO),Seasonal Diff Δ24 Demand,-12.6558,0.0,0.1664,0.1,Stationary

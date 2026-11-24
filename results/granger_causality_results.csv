@@ -1,0 +1,13 @@
+Grid,Relationship,Lag_Hours,F_Stat,p_value,Significant_5pct
+California (CAL),Renewables_MW -> Gas_MW (Pre-whitened),1,234.53,0.0,Yes
+California (CAL),Renewables_MW -> Gas_MW (Pre-whitened),2,709.075,0.0,Yes
+California (CAL),Renewables_MW -> Gas_MW (Pre-whitened),3,513.514,0.0,Yes
+California (CAL),Renewables_MW -> Gas_MW (Pre-whitened),4,441.844,0.0,Yes
+California (CAL),Renewables_MW -> Gas_MW (Pre-whitened),5,427.93,0.0,Yes
+California (CAL),Renewables_MW -> Gas_MW (Pre-whitened),6,374.637,0.0,Yes
+Pakistan (ISMO),Renewables_MW -> RLNG_MW (Pre-whitened),1,60.779,0.0,Yes
+Pakistan (ISMO),Renewables_MW -> RLNG_MW (Pre-whitened),2,43.995,0.0,Yes
+Pakistan (ISMO),Renewables_MW -> RLNG_MW (Pre-whitened),3,29.356,0.0,Yes
+Pakistan (ISMO),Renewables_MW -> RLNG_MW (Pre-whitened),4,21.745,0.0,Yes
+Pakistan (ISMO),Renewables_MW -> RLNG_MW (Pre-whitened),5,20.806,0.0,Yes
+Pakistan (ISMO),Renewables_MW -> RLNG_MW (Pre-whitened),6,17.468,0.0,Yes
